@@ -105,3 +105,29 @@ K-Means clustering and evaluation
 Visualization and storytelling using data
 
 Power BI dashboard creation
+
+## Visuals and Screenshots
+
+1. EDA and correlation heatmap
+
+![Correlation Heatmap](Screenshots/Correlation_heatmap.png)
+
+
+2. Pairplot of indices
+
+![Pairplot](Screenshots/Pairplots.png)
+
+
+3. K-Means cluster scatter plot
+
+![Cluster Scatter](Screensots/Kmeans_plot.png)
+
+
+4. World map visualization
+
+![World Map Clusters](Screenshots/Worldmap.png)
+
+
+5. Power BI dashboard
+
+![Power BI Dashboard](Screenshots/Basic_powerbi_dashboard.png)
