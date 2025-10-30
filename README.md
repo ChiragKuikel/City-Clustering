@@ -18,7 +18,7 @@ Restaurant Price Index
 
 Local Purchasing Power Index
 
-## Project Woekflow
+## Project Workflow
 ### 1. Exploratory Data Analysis (EDA)
 
 Performed initial exploration of data (shape, missing values, distributions).
