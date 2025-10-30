@@ -120,7 +120,7 @@ Power BI dashboard creation
 
 3. K-Means cluster scatter plot
 
-![Cluster Scatter](Screensots/Kmeans_plot.png)
+![Cluster Scatter](Screenshots/Kmeans_plot.png)
 
 
 4. World map visualization
